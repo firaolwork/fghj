@@ -1,6 +1,6 @@
 # Remi Oni and Tolulope Fakunle Shell
 
-![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
+![alt text]([https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg](https://businessinfoeth.com/wp-content/uploads/2022/01/photo_2022-01-30_21-30-40.jpg))
 
 ### Description
 
