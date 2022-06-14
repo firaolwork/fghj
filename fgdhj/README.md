@@ -1,6 +1,6 @@
 # Remi Oni and Tolulope Fakunle Shell
 
-![alt text](https://businessinfoeth.com/wp-content/uploads/2022/01/photo_2022-01-30_21-30-40.jpg)
+![alt text](https://scontent.fbjr1-1.fna.fbcdn.net/v/t39.30808-6/277680605_2113640605469803_8331666446206869536_n.jpg?stp=cp0_dst-jpg_e15_p320x320_q65&_nc_cat=108&ccb=1-7&_nc_sid=85a577&_nc_ohc=BjlfAZA-QYYAX_mdo8-&_nc_ht=scontent.fbjr1-1.fna&oh=00_AT_7AHV_e0WJkE1PAMavebmrwB3cLAQS3E0OcTuhhz766A&oe=62ADA1A5)
 
 ### Description
 
