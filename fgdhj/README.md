@@ -18,4 +18,4 @@ Our shell has support for the following built-in commands:
 
 ### Credits
 
-All code written by [Firaol Asrat]([https://github.com/firaolw]) and [Mathias Bekele](https://github.com/Math-tad).
+All code written by [Firaol Asrat](https://github.com/firaolw) and [Mathias Bekele](https://github.com/Math-tad).
